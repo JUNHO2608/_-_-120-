@@ -1,0 +1,1 @@
+positionForPages[126]={"page":126,"positions":[{"word":"126","left":0.078288,"top":0.948269,"width":0.021802,"height":0.010271},{"word":"\ucc3d\ub9bd 120\uc8fc\ub144 \uae30\ub150 \uac10\uc0ac\uc608\ubc30","left":0.068945,"top":0.110332,"width":0.218450,"height":0.015049}]};

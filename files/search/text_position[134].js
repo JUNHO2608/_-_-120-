@@ -1,0 +1,1 @@
+positionForPages[134]={"page":134,"positions":[{"word":"2024 \ud558\ub298\uac00\uc871 \uc5f0\ud569\uc218\ub828\ud68c <\uc624\uc544\uc2dc\uc2a4\ub97c \ub9cc\ub098\ub2e4: \uc27c, \ud68c\ubcf5, \ucf54\uc774\ub178\ub2c8\uc544>","left":0.069809,"top":0.110282,"width":0.548452,"height":0.017087},{"word":"134","left":0.078288,"top":0.948255,"width":0.022160,"height":0.010299}]};

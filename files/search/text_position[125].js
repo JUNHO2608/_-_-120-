@@ -1,0 +1,1 @@
+positionForPages[125]={"page":125,"positions":[{"word":"125","left":0.901293,"top":0.948269,"width":0.021834,"height":0.010285}]};

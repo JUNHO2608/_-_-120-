@@ -1,0 +1,1 @@
+positionForPages[4]={"page":4,"positions":[{"word":"004","left":0.077327,"top":0.948269,"width":0.023121,"height":0.010271},{"word":"\uccab \ubc88\uc9f8 \uc608\ubc30\ub2f9","left":0.056125,"top":0.044320,"width":0.091896,"height":0.012856}]};

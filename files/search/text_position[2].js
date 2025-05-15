@@ -1,0 +1,1 @@
+positionForPages[2]={"page":2,"positions":[{"word":"KYUNGDONG FIRST PRESBYTERIAN CHURCH","left":0.302055,"top":0.655607,"width":0.355986,"height":0.014168}]};

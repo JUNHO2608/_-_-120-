@@ -1,0 +1,1 @@
+positionForPages[41]={"page":41,"positions":[{"word":"\ub124 \ubc88\uc9f8 \uc608\ubc30\ub2f9 \ubcf8\ub2f9 \uc608\ubc30 \ubaa8\uc2b5","left":0.735863,"top":0.866855,"width":0.167698,"height":0.010749},{"word":"041","left":0.900333,"top":0.948269,"width":0.020646,"height":0.010271}]};

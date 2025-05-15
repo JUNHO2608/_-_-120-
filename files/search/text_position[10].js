@@ -1,0 +1,1 @@
+positionForPages[10]={"page":10,"positions":[{"word":"010","left":0.077327,"top":0.948269,"width":0.022697,"height":0.010271},{"word":"\ub124 \ubc88\uc9f8 \uc608\ubc30\ub2f9","left":0.057135,"top":0.044320,"width":0.090886,"height":0.012856},{"word":"010","left":0.077327,"top":0.948269,"width":0.022697,"height":0.010271}]};
